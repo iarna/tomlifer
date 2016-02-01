@@ -1,0 +1,22 @@
+{
+  "name": "tomlifer",
+  "version": "1.0.0",
+  "description": "JavaScript Library For TOML Stringify",
+  "main": "index.js",
+  "keywords": [
+    "toml",
+    "stringify"
+  ],
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanyuantingfeng/tomlifer.git"
+  },
+  "dependencies": {
+    "nfix ": "*",
+    "nclass": "*"
+  },
+  "author": "nanyuantingfeng",
+  "license": "MIT"
+}
